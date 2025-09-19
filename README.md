@@ -6,6 +6,6 @@ INTERSHIP DURATION: 1 MONTHS [15 AUG - 15 SEP]
 MODE: ONLINE
 
 LANGUAGES : HTML,CSS,JAVASCRIPT
-
 OFFER LETTER:-
+
 ![arti](https://github.com/user-attachments/assets/dc0da63d-cf78-4ca3-b423-f2b135114149)
